@@ -1,6 +1,6 @@
 Go Check out the website at anifast.site
-Test Credentials: tester@gmail.com
-pass: 1234
+Test Credentials: abubakar@gmail.com
+pass: 12345
 
 🎌 AniFast — Your Personal Anime Tracker
 
